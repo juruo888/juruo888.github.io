@@ -1926,7 +1926,7 @@ xD 删除不需要的代码</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.77386934673366 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.33165829145729 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1948,7 +1948,7 @@ xD 删除不需要的代码</div>
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 97 times</div>
+                                <div class="text">Repositories have been deployed 99 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2295,7 +2295,7 @@ xD 删除不需要的代码</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2022, 16:54:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 23 Jun 2022, 17:35:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
